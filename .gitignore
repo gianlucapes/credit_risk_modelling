@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+
+notebook/credit_risk_model_codebasics.ipynb
